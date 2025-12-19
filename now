@@ -1,0 +1,9 @@
+
+ID Active Age  Tag    Due  Description                                      Urg
+-- ------ ---- ------ ---- ------------------------------------------------ ----
+ 3        3d          1d   get top-5 favorite programming pearl papers      8.35
+ 1   4d   8mo  idea        taskwarrior email reminder                        6.2
+ 2        6mo  config      make nvim context off by default                 1.86
+ 4        2d               fix llmpl envvar interface; use something better 0.01
+
+4 tasks
