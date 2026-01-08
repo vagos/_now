@@ -1,6 +1,7 @@
 
-ID Age  Description     Urg
--- ---- --------------- ----
- 1 7d   mark beat games 0.04
+ID Age  Description                               Urg
+-- ---- ----------------------------------------- ----
+ 1 7d   mark beat games                           0.04
+ 2 9s   add music images to collection singletons    0
 
-1 task
+2 tasks
