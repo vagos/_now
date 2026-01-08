@@ -1,8 +1,9 @@
 
-ID Age  Description                               Urg
--- ---- ----------------------------------------- ----
- 1 7d   mark beat games                           0.04
- 2 4min add music images to collection singletons    0
- 3 1s   update website w/ news                       0
+ID Age   Description                               Urg
+-- ----- ----------------------------------------- ----
+ 1  7d   mark beat games                           0.04
+ 2 15min add music images to collection singletons    0
+ 3 10min update website w/ news                       0
+ 4 19s   present ai experimeentation                  0
 
-3 tasks
+4 tasks
